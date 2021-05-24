@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+video {
+  display: flex;
+  height: 95vh;
+  margin: 0 auto;
+}
